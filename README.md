@@ -24,11 +24,13 @@ As we'll see the overall performance of the sample of stocks was better in 2017 
  
 
 ### Summary
-The company with the RUN ticker is on the rise and viewers should consider investing in this company as long as they didn't peak in 2018 or if 2018 was an anomaly for this company. Additionally, as seen above the VBA has been refactored to be more efficient and runs twice as fast as the module we initially created throughout Module 2
+The company with the RUN ticker is on the rise and viewers should consider investing in this company as long as they didn't peak in 2018 or if 2018 was an anomaly for this company. Additionally, as seen above the VBA has been refactored to be more efficient and runs twice as fast as the module we initially created throughout Module 2.
 
- 1. f 
- 2. f
+ 1. Refactoring code helps the macro become more efficient so it can run more quickly and handle more data. It also makes the code cleaner and easier to understand. The difficulty of refactoring code is it takes more time for the developer to figure out how to make it more efficient. It takes time to learn and apply more advanced skills and it takes time trying to figure out how to make it more efficient. 
+ 2. The above pros and cons about refactoring VBA definitely apply to this project. It was challenging for me in trying to refactor the VBA script. We used a few different functions/calculations that I was not as comfortable with. Therefore, I needed assistance to complete this project. However, after refactoring the VBA script it did make the macro run twice as fast as it initially did - maybe even faster.
+
 
 If you are interested in looking into the details of this analysis please check out the Excel Workbook and the underlying VBA code:
+
 [VBA_Challenge_11.15.22.xlsm](https://github.com/tylerwe19/Refactoring_VBA_Code/blob/main/VBA_Challenge_11.15.22.xlsm)
 ---
